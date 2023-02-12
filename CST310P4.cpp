@@ -1,3 +1,5 @@
+// Code produced 100% by Wesley Baker, utilizing GLUT and GL APIs.
+
 #include <iostream>
 #ifdef __APPLE_CC__
 #include <GLUT/glut.h>
