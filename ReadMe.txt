@@ -11,5 +11,5 @@ To compile CST310P5.cpp type: g++ CST310P5.cpp -o P5 -lglut -lGLU -lGL
 
 Following this,
 
-To execute CST310P5.cpp type: ./P4
+To execute CST310P5.cpp type: ./P5
 
